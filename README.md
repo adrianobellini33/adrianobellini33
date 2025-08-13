@@ -31,5 +31,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, iniciando nesta jornada!
 - ⚡ Curiosidade, atualmente sou Analista de Vendas em uma conceituada empresa de Comércio Atacadista de Materiais Elétricos
 - 🩰 Meu esporte favorito: **  Futebol **
 
+<img width="160" height="120" alt="Image" src="https://github.com/user-attachments/assets/232f00c2-62f7-467d-8ee5-8fa9af1af2d5" />
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=footer&text=Thank+you+for+visiting+me!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
