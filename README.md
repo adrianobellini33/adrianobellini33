@@ -31,6 +31,22 @@ Estudante de Análise e Desenvolvimento de Sistemas, iniciando nesta jornada!
 - ⚡ Curiosidade, atualmente sou Analista de Vendas em uma conceituada empresa de Comércio Atacadista de Materiais Elétricos
 - 🩰 Meu esporte favorito: **  Futebol **
 
-<img width="160" height="120" alt="Image" src="https://github.com/user-attachments/assets/232f00c2-62f7-467d-8ee5-8fa9af1af2d5" />
+
+  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrianobellini33/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/adrianorobertobellini33?igsh=MW43eHQwemx1Mm93cw==" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40"/>
+  </a>
+  <a href="mailto:adrianobellini33@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40"/>
+  </a>
+  <a href="https://github.com/adrianobellini33" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40"/>
+  </a>
+</p>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=footer&text=Thank+you+for+visiting+me!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
