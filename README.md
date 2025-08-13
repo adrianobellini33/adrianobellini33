@@ -3,10 +3,10 @@
 
 
 
-## 🖖 Sobre a História
+# 🖖 Sobre a História
 Estudante de Análise e Desenvolvimento de Sistemas, iniciando nesta jornada!
 
-## ⚡ Interesses
+# ⚡ Interesses
 <div align="center">
 
  
@@ -32,6 +32,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, iniciando nesta jornada!
 - 🩰 Meu esporte favorito: **  Futebol **
 
 
+# 👍 Redes Sociais e Contato
   
 
 <p align="center">
